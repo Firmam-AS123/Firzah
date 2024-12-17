@@ -1,7 +1,7 @@
 {
         'firzah-3-4-7-9-1-4': datetime.datetime(2024, 12, 19),
         'zahra--9-1-4-7-1-4': datetime.datetime(2025, 1, 29),
-        'firzah_tgr': datetime.datetime(2024, 9, 30),
+        'firzah_tgr': datetime.datetime(2024, 12, 18),
         'THE GREAT RULER': datetime.datetime(2024, 10, 29),
         'zahra ayu🥰': datetime.datetime(2024, 11, 28),
         'ika cantik🥰': datetime.datetime(2024, 12, 28),
