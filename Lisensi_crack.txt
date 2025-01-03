@@ -4,6 +4,6 @@
         'firzah_tgr': datetime.datetime(2025, 1, 7),
         'firzahxleona': datetime.datetime(2024, 12, 23),
         'leona-9-3-9-7-1': datetime.datetime(2024, 1, 10),
-        'ika cantik🥰': datetime.datetime(2024, 12, 28),
+        'firzah-01-10': datetime.datetime(2025, 1, 10),
         'Fghdolthooproy-eyrklpejkpf@#$@$$#@rirryippetu': datetime.datetime(2034, 9, 28)
     }
