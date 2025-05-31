@@ -1,5 +1,5 @@
 {
-        'zeng niu': datetime.datetime(2025, 5, 21),
+        'aku ganteng': datetime.datetime(2025, 6, 8),
         'firzah-9-1-4-7-1-4': datetime.datetime(2025, 5, 25),
         'FIRandZAH': datetime.datetime(2025, 1, 13),
         'firzah-aureliaa': datetime.datetime(2025, 2, 9),
